@@ -1,0 +1,3 @@
+[submodule "White-Wine-Quality-Prediction"]
+	path = White-Wine-Quality-Prediction
+	url = https://github.com/JohnScotttt/White-Wine-Quality-Prediction.git
